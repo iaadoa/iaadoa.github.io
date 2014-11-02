@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My First Blog
+title: My First Blog on GitHub
 ---
 
 This is my first Blog on github.  I have finally got some relation with github.  Anyway, I am a coder, right?
